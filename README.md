@@ -85,4 +85,4 @@ For more details on **Node.js developers**, visit:
 ---
 
 **Author:** Emmanuel Ajayi  
-**HNG12 Slack Username:** @Nhzi
+**HNG12 Slack Username:** @Ved
