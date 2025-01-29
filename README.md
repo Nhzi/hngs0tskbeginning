@@ -23,7 +23,7 @@ Welcome to my submission for the **HNG12 Stage 0 Backend Task**. This project is
 
 ### Endpoint
 
-**GET** `{your_deployment_url}`
+**GET** `{https://hng-backend-task-0.onrender.com/}`
 
 ### Sample Response (200 OK)
 
@@ -70,7 +70,7 @@ Ensure you have the following installed:
 The API is deployed and publicly accessible at:
 
 ```
-{your_deployment_url}
+{https://hng-backend-task-0.onrender.com/}
 ```
 
 ## Link to Project Repository
@@ -84,5 +84,5 @@ For more details on **Node.js developers**, visit:
 
 ---
 
-**Author:** Emmanuela Ajayi  
+**Author:** Emmanuel Ajayi  
 **HNG12 Slack Username:** @Nhzi
