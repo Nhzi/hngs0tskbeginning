@@ -9,7 +9,7 @@ app.get("/", (req, res) => {
   const data = {
     email: "emmanuelaajayi2@gmail.com",
     current_datetime: new Date().toISOString(),
-    gitrepo: "https://github.com/Nhzi/hngs0tskbeginning",
+    github_url: "https://github.com/Nhzi/hngs0tskbeginning",
   };
   res.status(200).json(data);
 });
