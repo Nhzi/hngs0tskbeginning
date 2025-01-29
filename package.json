@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "name": "hngs0tskbeginning",
+  "version": "1.0.0",
+  "description": "Stage 0 task, HNG Internship",
+  "main": "app.js",
+  "scripts": {
+    "main": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
